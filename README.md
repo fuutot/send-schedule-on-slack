@@ -16,3 +16,4 @@ jsonを解釈するメソッドや、値をjsonに変換するメソッドを持
 ## 参考文献  
 [https://www.youtube.com/watch?v=CVIApO-B6gQ&list=PLzzUGo1v1MFyZc-nWacR5QN0mT3PhkRwY&index=2](https://www.youtube.com/watch?v=CVIApO-B6gQ&list=PLzzUGo1v1MFyZc-nWacR5QN0mT3PhkRwY&index=2)  
 [PropertiesService](https://developers.google.com/apps-script/guides/properties?hl=ja)  
+[MDN:JSON](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/JSON)
