@@ -9,11 +9,16 @@
 
 ## メモ  
 ### PropertiesService  
+Google apps scriptの機能  
 コード上に機密情報などを残したくない時に使う  
 ### JSONオブジェクト  
 jsonを解釈するメソッドや、値をjsonに変換するメソッドを持つ  
+### UrlFetchApp  
+Google apps scriptの機能  
+他のアプリケーションと通信したり、ウェブ上の他のリソースにアクセスするのに使う  
 
 ## 参考文献  
 [https://www.youtube.com/watch?v=CVIApO-B6gQ&list=PLzzUGo1v1MFyZc-nWacR5QN0mT3PhkRwY&index=2](https://www.youtube.com/watch?v=CVIApO-B6gQ&list=PLzzUGo1v1MFyZc-nWacR5QN0mT3PhkRwY&index=2)  
 [PropertiesService](https://developers.google.com/apps-script/guides/properties?hl=ja)  
-[MDN:JSON](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/JSON)
+[MDN:JSON](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/JSON)  
+[UrlFetchApp](https://developers.google.com/apps-script/reference/url-fetch/url-fetch-app?hl=ja)  
