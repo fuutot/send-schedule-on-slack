@@ -26,6 +26,8 @@ Googleカレンダーの読み取りや更新をするのに使う
 ### Utilities  
 Google apps scriptの機能  
 日付の書式設定やjson操作などをするのに使う  
+### Template literal  
+文字列に変数を埋め込むのに使う  
 
 ## 参考文献  
 [ソース](https://www.youtube.com/watch?v=CVIApO-B6gQ&list=PLzzUGo1v1MFyZc-nWacR5QN0mT3PhkRwY&index=2)  
@@ -36,3 +38,4 @@ Google apps scriptの機能
 [new演算子](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Operators/new)  
 [Dateオブジェクト](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/Date)  
 [Utilities](https://developers.google.com/apps-script/reference/utilities/utilities?hl=ja)  
+[Template literal](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Template_literals)  
