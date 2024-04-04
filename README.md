@@ -19,6 +19,8 @@ Google apps scriptの機能
 ### CalendarApp  
 Google apps scriptの機能  
 Googleカレンダーの読み取りや更新をするのに使う  
+### new演算子  
+インスタンスを作成するのに使う  
 
 ## 参考文献  
 [ソース](https://www.youtube.com/watch?v=CVIApO-B6gQ&list=PLzzUGo1v1MFyZc-nWacR5QN0mT3PhkRwY&index=2)  
@@ -26,3 +28,4 @@ Googleカレンダーの読み取りや更新をするのに使う
 [MDN:JSON](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/JSON)  
 [UrlFetchApp](https://developers.google.com/apps-script/reference/url-fetch/url-fetch-app?hl=ja)  
 [CalendarApp](https://developers.google.com/apps-script/reference/calendar/calendar-app?hl=ja)  
+[new演算子](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Operators/new)  
